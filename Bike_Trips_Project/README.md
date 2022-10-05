@@ -10,6 +10,7 @@
 
 >The Dataset used was provided by the udacity team. During the data wrangling, cleaning was done at the removal of NaN rows. Other columns were established from the some existing columns for furthur analysis.
 
+click [here](https://drive.google.com/file/d/1F7969SsIB5Y2Iu5umJacoLC9xQMQQnnI/view?usp=sharing) to download the data.
 
 ## Summary of Findings
 
